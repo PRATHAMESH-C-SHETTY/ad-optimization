@@ -77,5 +77,22 @@ def index():
     return redirect(url_for('auth.login'))
 
 
+@app.route('/health')
+def health():
+    """Health check endpoint for monitoring and load balancers"""
+    try:
+        # Check database connection
+        db.session.execute('SELECT 1')
+        db_status = 'ok'
+    except Exception as e:
+        db_status = f'error: {str(e)}'
+    
+    return jsonify({
+        'status': 'healthy' if db_status == 'ok' else 'degraded',
+        'database': db_status,
+        'version': '1.0.0'
+    }), 200 if db_status == 'ok' else 503
+
+
 if __name__ == '__main__':
     app.run(debug=True, port=5001)
