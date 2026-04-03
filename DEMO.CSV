@@ -1,0 +1,26 @@
+ad_id,campaign_name,platform,impressions,clicks,conversions,cost,age_group,location,device,date
+AD001,Summer Sale,Facebook,12000,850,120,300,18-24,Bangalore,Mobile,2025-06-01
+AD002,Summer Sale,Google,15000,920,140,400,25-34,Mumbai,Desktop,2025-06-01
+AD003,Winter Deals,Instagram,10000,700,90,250,18-24,Delhi,Mobile,2025-12-10
+AD004,Winter Deals,Facebook,18000,1100,200,500,35-44,Chennai,Tablet,2025-12-10
+AD005,Festive Offer,Google,20000,1300,220,600,25-34,Hyderabad,Mobile,2025-10-20
+AD006,Festive Offer,Instagram,17000,1000,180,450,18-24,Kolkata,Mobile,2025-10-20
+AD007,Flash Sale,Facebook,9000,600,80,200,45-54,Pune,Desktop,2025-07-15
+AD008,Flash Sale,Google,22000,1400,260,700,25-34,Bangalore,Mobile,2025-07-15
+AD009,New Launch,Instagram,25000,1600,300,800,18-24,Mumbai,Mobile,2025-08-05
+AD010,New Launch,Facebook,14000,900,150,350,35-44,Delhi,Tablet,2025-08-05
+AD011,Clearance Sale,Google,30000,2000,400,1000,45-54,Chennai,Desktop,2025-09-12
+AD012,Clearance Sale,Instagram,21000,1500,270,650,25-34,Hyderabad,Mobile,2025-09-12
+AD013,Back to School,Facebook,16000,1100,210,480,18-24,Kolkata,Mobile,2025-06-15
+AD014,Back to School,Google,18000,1200,230,520,25-34,Pune,Desktop,2025-06-15
+AD015,Travel Deals,Instagram,27000,1800,350,900,35-44,Bangalore,Mobile,2025-11-01
+AD016,Travel Deals,Facebook,23000,1500,300,750,45-54,Mumbai,Tablet,2025-11-01
+AD017,App Promotion,Google,26000,1700,320,850,18-24,Delhi,Mobile,2025-05-25
+AD018,App Promotion,Instagram,22000,1400,260,700,25-34,Chennai,Mobile,2025-05-25
+AD019,Black Friday,Facebook,35000,2500,500,1200,35-44,Hyderabad,Desktop,2025-11-25
+AD020,Black Friday,Google,40000,3000,650,1500,25-34,Kolkata,Mobile,2025-11-25
+AD021,Cyber Monday,Instagram,32000,2200,450,1100,18-24,Pune,Mobile,2025-11-30
+AD022,Cyber Monday,Facebook,28000,2000,400,1000,45-54,Bangalore,Desktop,2025-11-30
+AD023,Holiday Sale,Google,36000,2400,480,1300,25-34,Mumbai,Mobile,2025-12-20
+AD024,Holiday Sale,Instagram,30000,2100,420,1150,18-24,Delhi,Mobile,2025-12-20
+AD025,Year End Sale,Facebook,38000,2600,520,1400,35-44,Chennai,Tablet,2025-12-28
